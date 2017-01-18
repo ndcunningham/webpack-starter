@@ -1,5 +1,6 @@
-export function main(): void {
-    'use strict';
+describe('universal truths', () => {
+    it('should work', () => {
 
     expect(1).toBe(1);
-}
+    });
+});
